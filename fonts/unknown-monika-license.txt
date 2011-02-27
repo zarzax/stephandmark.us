@@ -1,0 +1,428 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Freeware - Wikipedia, the free encyclopedia</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.17wmf1" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Freeware&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Freeware&amp;action=edit" />
+<link rel="apple-touch-icon" href="http://en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%7Cmediawiki.legacy.shared%7Cskins.vector&amp;only=styles&amp;skin=vector" type="text/css" media="all" />
+<style type="text/css" media="all">a.new,#quickbar a.new{color:#ba0000}</style><meta name="ResourceLoaderDynamicStyles" content="" /><link rel="stylesheet" href="http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;version=20110217T190952Z" type="text/css" media="all" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=user&amp;only=styles&amp;skin=vector&amp;version=19700101T000001Z" type="text/css" media="all" />
+
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.17/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr ns-0 ns-subject page-Freeware skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --><script type="text/javascript">
+/* <![CDATA[ */
+document.writeln("\x3cdiv id=\"localNotice\"\x3e\x3cp\x3e\x3c/p\x3e\n\x3c/div\x3e");
+/* ]]> */
+</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Freeware</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<div class="dablink">Not to be confused with <a href="/wiki/Free_software" title="Free software">Free software</a>.</div>
+<p><b>Freeware</b> (from "free" and "software") is <a href="/wiki/Computer_software" title="Computer software">computer software</a> that is available for use at no cost or for an optional fee,<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup> but usually with one or more restricted usage rights.<sup id="cite_ref-linfo_1-0" class="reference"><a href="#cite_note-linfo-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-lawrence_2-0" class="reference"><a href="#cite_note-lawrence-2"><span>[</span>3<span>]</span></a></sup> Freeware is in contrast to <a href="/wiki/Commercial_software" title="Commercial software">commercial software</a>, which is typically sold for profit. The term does not imply that the software is <a href="/wiki/Free_and_open_source_software" title="Free and open source software">free and open source software</a> (FOSS). Freeware is a loosely defined category, which includes both closed and open source <a href="/wiki/Proprietary_software" title="Proprietary software">proprietary software</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Criteria"><span class="tocnumber">2</span> <span class="toctext">Criteria</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<script type="text/javascript">
+//<![CDATA[
+if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } 
+//]]>
+</script>
+<h2><span class="editsection">[<a href="/w/index.php?title=Freeware&amp;action=edit&amp;section=1" title="Edit section: History">edit</a>]</span> <span class="mw-headline" id="History">History</span></h2>
+<table class="metadata plainlinks ambox ambox-content" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="http://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" /></a></div>
+</td>
+<td class="mbox-text" style="">This section <b>needs additional <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">citations</a> for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a>.</b><br />
+<small>Please help <a href="http://en.wikipedia.org/w/index.php?title=Freeware&amp;action=edit" class="external text" rel="nofollow">improve this article</a> by adding <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliable references</a>. Unsourced material may be <a href="/wiki/Template:Citation_needed" title="Template:Citation needed">challenged</a> and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>. <i>(June 2010)</i></small></td>
+</tr>
+</table>
+<p>The term <i>freeware</i> was coined by <a href="/wiki/Andrew_Fluegelman" title="Andrew Fluegelman">Andrew Fluegelman</a> when he wanted to sell a communications program named <a href="/wiki/PC-Talk" title="PC-Talk">PC-Talk</a> that he had created but for which he did not wish to use traditional methods of distribution because of their cost.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup> Fluegelman actually distributed PC-Talk via a process now referred to as <a href="/wiki/Shareware" title="Shareware">shareware</a>. Current use of the term freeware does not necessarily match the original concept by Andrew Fluegelman.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Freeware&amp;action=edit&amp;section=2" title="Edit section: Criteria">edit</a>]</span> <span class="mw-headline" id="Criteria">Criteria</span></h2>
+<p>Software classified as freeware is licensed at no cost and is either fully functional for an unlimited time; or has only basic functions enabled with a fully functional version available commercially or as shareware.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup> In contrast to <a href="/wiki/Free_software" title="Free software">free software</a>, the author usually restricts one or more rights of the user, including the rights to copy, distribute, modify and make derivative works of the software or extract the source code.<sup id="cite_ref-lawrence_2-1" class="reference"><a href="#cite_note-lawrence-2"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-linfo_1-1" class="reference"><a href="#cite_note-linfo-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-adobe-reader_5-0" class="reference"><a href="#cite_note-adobe-reader-5"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup> The <a href="/wiki/Software_license" title="Software license">software license</a> may impose additional restrictions on the type of use including personal use, private use, individual use, non-profit use, non-commercial use, academic use, educational use, use in charity or humanitarian organisations, non-military use, use by public authorities or various other combinations of these type of restrictions.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup> For instance, the license may be "free for private, non-commercial use". The software license may also impose various other restrictions, such as restricted use over a network, restricted use on a server, restricted use in a combination with some types of other software or with some hardware devices, etc.<sup id="cite_ref-adobe-reader_5-1" class="reference"><a href="#cite_note-adobe-reader-5"><span>[</span>6<span>]</span></a></sup></p>
+<p>The <a href="/wiki/Free_Software_Foundation" title="Free Software Foundation">Free Software Foundation</a> (FSF) has requested that people avoid referring to true Free Software as "freeware".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>10<span>]</span></a></sup> Members of FOSS community believe that "freedom to use" implies that the end user is free study, and modify, and distribute the software with minimal restriction.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup> Freeware is also distinct from <a href="/wiki/Shareware" title="Shareware">shareware</a>; the latter obliges the user to pay after some trial period or to gain additional functionality.<sup id="cite_ref-linfo_1-2" class="reference"><a href="#cite_note-linfo-1"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Freeware&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a>]</span> <span class="mw-headline" id="See_also">See also</span></h2>
+<div class="noprint tright portal" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 0.5em;">
+<table style="background:#f9f9f9; font-size:85%; line-height:110%; max-width:175px;">
+<tr>
+<td><a href="/wiki/File:Portal-puzzle.svg" class="image"><img alt="Portal-puzzle.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png" width="32" height="28" /></a></td>
+<td style="padding:0 0.2em;"><i><b><a href="/wiki/Portal:Free_software" title="Portal:Free software">Free software portal</a></b></i></td>
+</tr>
+</table>
+</div>
+<ul>
+<li><a href="/wiki/Free_software_movement" title="Free software movement">Free software movement</a></li>
+<li><a href="/wiki/Gratis_versus_Libre" title="Gratis versus Libre">Gratis versus Libre</a></li>
+<li><a href="/wiki/List_of_commercial_video_games_released_as_freeware" title="List of commercial video games released as freeware">List of commercial video games released as freeware</a></li>
+<li><a href="/wiki/List_of_freeware_video_games" title="List of freeware video games">List of freeware video games</a></li>
+<li><a href="/wiki/Shareware" title="Shareware">Shareware</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Freeware&amp;action=edit&amp;section=4" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="">
+<div class="references">
+<ol>
+<li id="cite_note-0"><b><a href="#cite_ref-0">^</a></b> "<a href="http://www.merriam-webster.com/dictionary/freeware" class="external text" rel="nofollow">Freeware</a>" (2010). <i>Merriam-Webster Online Dictionary</i>. Accessed January 13, 2010.</li>
+<li id="cite_note-linfo-1">^ <a href="#cite_ref-linfo_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-linfo_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-linfo_1-2"><sup><i><b>c</b></i></sup></a> <span class="citation web">The Linux Information Project (2006-10-22). <a href="http://www.linfo.org/freeware.html" class="external text" rel="nofollow">"Freeware Definition"</a><span class="printonly">. <a href="http://www.linfo.org/freeware.html" class="external free" rel="nofollow">http://www.linfo.org/freeware.html</a></span><span class="reference-accessdate">. Retrieved 2009-06-12</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Freeware+Definition&amp;rft.atitle=&amp;rft.aulast=The+Linux+Information+Project&amp;rft.au=The+Linux+Information+Project&amp;rft.date=2006-10-22&amp;rft_id=http%3A%2F%2Fwww.linfo.org%2Ffreeware.html&amp;rfr_id=info:sid/en.wikipedia.org:Freeware"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-lawrence-2">^ <a href="#cite_ref-lawrence_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-lawrence_2-1"><sup><i><b>b</b></i></sup></a> <span class="citation book">Graham, Lawrence D (1999). <a href="http://books.google.com/books?id=c6IS3RnN6qAC&amp;pg=PA175&amp;dq=%22Legal+battles+that+shaped+the+computer+industry%22+%22from+the+beginning+of+the+computer+age%22" class="external text" rel="nofollow"><i>Legal battles that shaped the computer industry</i></a>. Greenwood Publishing Group. p.&#160;175. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781567201789" title="Special:BookSources/9781567201789">9781567201789</a><span class="printonly">. <a href="http://books.google.com/books?id=c6IS3RnN6qAC&amp;pg=PA175&amp;dq=%22Legal+battles+that+shaped+the+computer+industry%22+%22from+the+beginning+of+the+computer+age%22" class="external free" rel="nofollow">http://books.google.com/books?id=c6IS3RnN6qAC&amp;pg=PA175&amp;dq=%22Legal+battles+that+shaped+the+computer+industry%22+%22from+the+beginning+of+the+computer+age%22</a></span><span class="reference-accessdate">. Retrieved 2009-03-16</span>. "Freeware, however, is generally only free in terms of price; the author typically retains all other rights, including the rights to copy, distribute, and make derivative works from the software."</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Legal+battles+that+shaped+the+computer+industry&amp;rft.aulast=Graham&amp;rft.aufirst=Lawrence+D&amp;rft.au=Graham%2C%26%2332%3BLawrence+D&amp;rft.date=1999&amp;rft.pages=p.%26nbsp%3B175&amp;rft.pub=Greenwood+Publishing+Group&amp;rft.isbn=9781567201789&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dc6IS3RnN6qAC%26pg%3DPA175%26dq%3D%2522Legal%2Bbattles%2Bthat%2Bshaped%2Bthe%2Bcomputer%2Bindustry%2522%2B%2522from%2Bthe%2Bbeginning%2Bof%2Bthe%2Bcomputer%2Bage%2522&amp;rfr_id=info:sid/en.wikipedia.org:Freeware"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-3"><b><a href="#cite_ref-3">^</a></b> <a href="http://textfiles.fisher.hu/news/freeware.txt" class="external text" rel="nofollow">Fisher.hu</a></li>
+<li id="cite_note-4"><b><a href="#cite_ref-4">^</a></b> <span class="citation book">Dixon, Rod (2004). <a href="http://books.google.com/books?id=9b_vVPf53xcC&amp;pg=PA4&amp;dq=%22free+software%22+freeware#PPA4,M1" class="external text" rel="nofollow"><i>Open Source Software Law</i></a>. Artech House. p.&#160;4. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781580537193" title="Special:BookSources/9781580537193">9781580537193</a><span class="printonly">. <a href="http://books.google.com/books?id=9b_vVPf53xcC&amp;pg=PA4&amp;dq=%22free+software%22+freeware#PPA4,M1" class="external free" rel="nofollow">http://books.google.com/books?id=9b_vVPf53xcC&amp;pg=PA4&amp;dq=%22free+software%22+freeware#PPA4,M1</a></span><span class="reference-accessdate">. Retrieved 2009-03-16</span>. "On the other hand, freeware does not require any payment from the licensee or end-user, but it is not precisely free software, despite the fact that to an end-user the software is acquired in what appears to be an identical manner."</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Open+Source+Software+Law&amp;rft.aulast=Dixon&amp;rft.aufirst=Rod&amp;rft.au=Dixon%2C%26%2332%3BRod&amp;rft.date=2004&amp;rft.pages=p.%26nbsp%3B4&amp;rft.pub=Artech+House&amp;rft.isbn=9781580537193&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D9b_vVPf53xcC%26pg%3DPA4%26dq%3D%2522free%2Bsoftware%2522%2Bfreeware%23PPA4%2CM1&amp;rfr_id=info:sid/en.wikipedia.org:Freeware"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-adobe-reader-5">^ <a href="#cite_ref-adobe-reader_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-adobe-reader_5-1"><sup><i><b>b</b></i></sup></a> <span class="citation Journal">(PDF) <a href="http://www.adobe.com/products/eulas/pdfs/Reader10_combined-20100625_1419.pdf" class="external text" rel="nofollow"><i>ADOBE Personal Computer Software License Agreement</i></a><span class="printonly">. <a href="http://www.adobe.com/products/eulas/pdfs/Reader10_combined-20100625_1419.pdf" class="external free" rel="nofollow">http://www.adobe.com/products/eulas/pdfs/Reader10_combined-20100625_1419.pdf</a></span><span class="reference-accessdate">. Retrieved 2011-02-16</span>. "This license does not grant you the right to sublicense or distribute the Software. ... This agreement does not permit you to install or Use the Software on a computer file server. ... You shall not modify, adapt, translate, or create derivative works based upon the Software. You shall not reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code of the Software. ... You will not Use any Adobe Runtime on any non-PC device or with any embedded or device version of any operating system.".</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=ADOBE+Personal+Computer+Software+License+Agreement&amp;rft_id=http%3A%2F%2Fwww.adobe.com%2Fproducts%2Feulas%2Fpdfs%2FReader10_combined-20100625_1419.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Freeware"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-6"><b><a href="#cite_ref-6">^</a></b> <span class="citation web"><a href="https://www.adobe.com/cfusion/mmform/index.cfm?name=distribution_form&amp;pv=rdr" class="external text" rel="nofollow">"ADOBE READER AND RUNTIME SOFTWARE - DISTRIBUTION LICENSE AGREEMENT FOR USE ON PERSONAL COMPUTERS"</a><span class="printonly">. <a href="https://www.adobe.com/cfusion/mmform/index.cfm?name=distribution_form&amp;pv=rdr" class="external free" rel="nofollow">https://www.adobe.com/cfusion/mmform/index.cfm?name=distribution_form&amp;pv=rdr</a></span><span class="reference-accessdate">. Retrieved 2011-02-16</span>. "Distributor may not make the Software available as a standalone product on the Internet. Distributor may direct end users to obtain the Software, with the exception of ARH, through electronic download on a standalone basis by linking to the official Adobe website."</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=ADOBE+READER+AND+RUNTIME+SOFTWARE+-+DISTRIBUTION+LICENSE+AGREEMENT+FOR+USE+ON+PERSONAL+COMPUTERS&amp;rft.atitle=&amp;rft_id=https%3A%2F%2Fwww.adobe.com%2Fcfusion%2Fmmform%2Findex.cfm%3Fname%3Ddistribution_form%26pv%3Drdr&amp;rfr_id=info:sid/en.wikipedia.org:Freeware"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-7"><b><a href="#cite_ref-7">^</a></b> <span class="citation web"><a href="http://www.irfanview.com/eula.htm" class="external text" rel="nofollow">"IrfanView Software License Agreement."</a><span class="printonly">. <a href="http://www.irfanview.com/eula.htm" class="external free" rel="nofollow">http://www.irfanview.com/eula.htm</a></span><span class="reference-accessdate">. Retrieved 2011-02-16</span>. "IrfanView is provided as freeware, but only for private, non-commercial use (that means at home). ... IrfanView is free for educational use (schools, universities and libraries) and for use in charity or humanitarian organisations. ... You may not distribute, rent, sub-license or otherwise make available to others the Software or documentation or copies thereof, except as expressly permitted in this License without prior written consent from IrfanView (Irfan Skiljan). ... You may not modify, de-compile, disassemble or reverse engineer the Software."</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=IrfanView+Software+License+Agreement.&amp;rft.atitle=&amp;rft_id=http%3A%2F%2Fwww.irfanview.com%2Feula.htm&amp;rfr_id=info:sid/en.wikipedia.org:Freeware"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-8"><b><a href="#cite_ref-8">^</a></b> <span class="citation web">Free Software Foundation, Inc.. <a href="http://www.fsf.org/licensing/essays/words-to-avoid.html#Freeware" class="external text" rel="nofollow">"Words to Avoid (or Use with Care) Because They Are Loaded or Confusing"</a><span class="printonly">. <a href="http://www.fsf.org/licensing/essays/words-to-avoid.html#Freeware" class="external free" rel="nofollow">http://www.fsf.org/licensing/essays/words-to-avoid.html#Freeware</a></span><span class="reference-accessdate">. Retrieved 2011-02-16</span>. "Please don't use the term “freeware” as a synonym for “free software.” The term “freeware” was used often in the 1980s for programs released only as executables, with source code not available. Today it has no particular agreed-on definition."</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Words+to+Avoid+%28or+Use+with+Care%29+Because+They+Are+Loaded+or+Confusing&amp;rft.atitle=&amp;rft.aulast=Free+Software+Foundation%2C+Inc.&amp;rft.au=Free+Software+Foundation%2C+Inc.&amp;rft_id=http%3A%2F%2Fwww.fsf.org%2Flicensing%2Fessays%2Fwords-to-avoid.html%23Freeware&amp;rfr_id=info:sid/en.wikipedia.org:Freeware"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-9"><b><a href="#cite_ref-9">^</a></b> <span class="citation web"><a href="http://www.gnu.org/philosophy/categories.html" class="external text" rel="nofollow">"Categories of free and nonfree software"</a><span class="printonly">. <a href="http://www.gnu.org/philosophy/categories.html" class="external free" rel="nofollow">http://www.gnu.org/philosophy/categories.html</a></span><span class="reference-accessdate">. Retrieved 2011-02-16</span>. "The term “freeware” has no clear accepted definition, but it is commonly used for packages which permit redistribution but not modification (and their source code is not available). These packages are not free software, so please don't use “freeware” to refer to free software."</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Categories+of+free+and+nonfree+software&amp;rft.atitle=&amp;rft_id=http%3A%2F%2Fwww.gnu.org%2Fphilosophy%2Fcategories.html&amp;rfr_id=info:sid/en.wikipedia.org:Freeware"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-10"><b><a href="#cite_ref-10">^</a></b> <span class="citation web"><a href="http://www.gnu.org/philosophy/free-sw.html" class="external text" rel="nofollow">"The Free Software Definition"</a><span class="printonly">. <a href="http://www.gnu.org/philosophy/free-sw.html" class="external free" rel="nofollow">http://www.gnu.org/philosophy/free-sw.html</a></span><span class="reference-accessdate">. Retrieved 2011-02-16</span>. "“Free software” is a matter of liberty, not price. To understand the concept, you should think of “free” as in “free speech,” not as in “free beer.” ... Free software is a matter of the users' freedom to run, copy, distribute, study, change and improve the software."</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=The+Free+Software+Definition&amp;rft.atitle=&amp;rft_id=http%3A%2F%2Fwww.gnu.org%2Fphilosophy%2Ffree-sw.html&amp;rfr_id=info:sid/en.wikipedia.org:Freeware"><span style="display: none;">&#160;</span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Freeware&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a href="http://www.dmoz.org/Computers/Software/Freeware/" class="external text" rel="nofollow">Freeware</a> at the <a href="/wiki/Open_Directory_Project" title="Open Directory Project">Open Directory Project</a></li>
+</ul>
+<p><br /></p>
+<table class="navbox" cellspacing="0" style=";">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse" style="width:100%;background:transparent;color:inherit;;">
+<tr>
+<th style=";" colspan="2" class="navbox-title"><span style="float:left;width:6em;text-align:left;"><span class="noprint plainlinks navbar" style=""><span style="white-space:nowrap;word-spacing:-.12em;"><a href="/wiki/Template:Software_distribution" title="Template:Software distribution"><span style=";;background:none transparent;border:none;font-size:100%;" title="View this template">v</span></a> <span style=";;background:none transparent;border:none;font-size:100%;"><b>·</b></span> <a href="/wiki/Template_talk:Software_distribution" title="Template talk:Software distribution"><span style=";;background:none transparent;border:none;font-size:100%;" title="Discuss this template">d</span></a> <span style=";;background:none transparent;border:none;font-size:100%;"><b>·</b></span> <a href="http://en.wikipedia.org/w/index.php?title=Template:Software_distribution&amp;action=edit" class="external text" rel="nofollow"><span style=";;background:none transparent;border:none;font-size:100%;" title="Edit this template">e</span></a></span></span></span><span class="" style="font-size:110%;">Software distribution</span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;">Methods</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/Abandonware" title="Abandonware">Abandonware</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Adware" title="Adware">Adware</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Product_bundling" title="Product bundling">Bundled</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Beerware" title="Beerware">Beerware</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Commercial_software" title="Commercial software">Commercial</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Donationware" title="Donationware">Donationware</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Freely_redistributable_software" title="Freely redistributable software">Freely redistributable software</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Free_software" title="Free software">Free software</a>&#160;<span style="font-weight:bold;">·</span>  <strong class="selflink">Freeware</strong>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Nagware" title="Nagware">Nagware</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Open-source_software" title="Open-source software">Open source</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Pre-installed_software" title="Pre-installed software">Pre-installed</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Postcardware" title="Postcardware">Postcardware</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Proprietary_software" title="Proprietary software">Proprietary</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Public_domain_software" title="Public domain software">Public domain</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Scareware" title="Scareware">Scareware</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Shareware" title="Shareware">Shareware</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;">Related topics</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/Product_Activation" title="Product Activation" class="mw-redirect">Product Activation</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Shovelware" title="Shovelware">Shovelware</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Software_bloat" title="Software bloat">Software bloat</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 5366/1000000
+Post-expand include size: 61064/2048000 bytes
+Template argument size: 27825/2048000 bytes
+Expensive parser function count: 2/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:11592-0!1!0!!en!4 and timestamp 20110216080134 -->
+<div class="printfooter">
+Retrieved from "<a href="http://en.wikipedia.org/wiki/Freeware">http://en.wikipedia.org/wiki/Freeware</a>"</div>
+				<!-- /bodytext -->
+								<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <span dir='ltr'><a href="/wiki/Category:Freeware" title="Category:Freeware">Freeware</a></span> | <span dir='ltr'><a href="/wiki/Category:Software_licenses" title="Category:Software licenses">Software licenses</a></span></div><div id="mw-hidden-catlinks" class="mw-hidden-cats-hidden">Hidden categories: <span dir='ltr'><a href="/wiki/Category:Articles_needing_additional_references_from_June_2010" title="Category:Articles needing additional references from June 2010">Articles needing additional references from June 2010</a></span> | <span dir='ltr'><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></span></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+					<li  id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Freeware" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Freeware"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Freeware"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Freeware" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Freeware&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible "><span><a href="/w/index.php?title=Freeware&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input type='hidden' name="title" value="Special:Search"/>
+				<div id="simpleSearch">
+						<input id="searchInput" name="search" type="text"  title="Search Wikipedia [f]" accesskey="f"  value="" />
+						<button id="searchButton" type='submit' name='button'  title="Search Wikipedia for this text"><img src="http://bits.wikimedia.org/skins-1.17/vector/images/search-ltr.png?301-2" alt="Search" /></button>
+					</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(http://upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+				<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+					<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+					<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+					<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+					<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+					<li id="n-sitesupport"><a href="http://wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA085&amp;language=en&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB002" title="Support us">Donate to Wikipedia</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+				<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+					<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+					<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+					<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+					<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id="p-tb">
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Freeware" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+						<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Freeware" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+																																					<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Freeware&amp;oldid=414213955" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Freeware&amp;id=414213955" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+				<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Freeware" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Freeware&amp;oldid=414213955&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Freeware&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>			</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id="p-lang">
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+					<li class="interwiki-ar"><a href="http://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA_%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9" title="برمجيات مجانية">العربية</a></li>
+					<li class="interwiki-zh-min-nan"><a href="http://zh-min-nan.wikipedia.org/wiki/Bi%C3%A1n-h%C3%B9i_n%C5%84g-th%C3%A9" title="Bián-hùi nńg-thé">Bân-lâm-gú</a></li>
+					<li class="interwiki-bs"><a href="http://bs.wikipedia.org/wiki/Freeware" title="Freeware">Bosanski</a></li>
+					<li class="interwiki-bg"><a href="http://bg.wikipedia.org/wiki/%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%BD_%D1%81%D0%BE%D1%84%D1%82%D1%83%D0%B5%D1%80" title="Безплатен софтуер">Български</a></li>
+					<li class="interwiki-ca"><a href="http://ca.wikipedia.org/wiki/Programari_gratu%C3%AFt" title="Programari gratuït">Català</a></li>
+					<li class="interwiki-cs"><a href="http://cs.wikipedia.org/wiki/Freeware" title="Freeware">Česky</a></li>
+					<li class="interwiki-da"><a href="http://da.wikipedia.org/wiki/Freeware" title="Freeware">Dansk</a></li>
+					<li class="interwiki-de"><a href="http://de.wikipedia.org/wiki/Freeware" title="Freeware">Deutsch</a></li>
+					<li class="interwiki-et"><a href="http://et.wikipedia.org/wiki/Vabavara" title="Vabavara">Eesti</a></li>
+					<li class="interwiki-es"><a href="http://es.wikipedia.org/wiki/Freeware" title="Freeware">Español</a></li>
+					<li class="interwiki-fa"><a href="http://fa.wikipedia.org/wiki/%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86" title="نرم‌افزار رایگان">فارسی</a></li>
+					<li class="interwiki-fr"><a href="http://fr.wikipedia.org/wiki/Freeware" title="Freeware">Français</a></li>
+					<li class="interwiki-ko"><a href="http://ko.wikipedia.org/wiki/%ED%94%84%EB%A6%AC%EC%9B%A8%EC%96%B4" title="프리웨어">한국어</a></li>
+					<li class="interwiki-hi"><a href="http://hi.wikipedia.org/wiki/%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B5%E0%A5%87%E0%A4%AF%E0%A4%B0" title="फ्रीवेयर">हिन्दी</a></li>
+					<li class="interwiki-hr"><a href="http://hr.wikipedia.org/wiki/Freeware" title="Freeware">Hrvatski</a></li>
+					<li class="interwiki-id"><a href="http://id.wikipedia.org/wiki/Perangkat_gratis" title="Perangkat gratis">Bahasa Indonesia</a></li>
+					<li class="interwiki-ia"><a href="http://ia.wikipedia.org/wiki/Freeware" title="Freeware">Interlingua</a></li>
+					<li class="interwiki-it"><a href="http://it.wikipedia.org/wiki/Freeware" title="Freeware">Italiano</a></li>
+					<li class="interwiki-he"><a href="http://he.wikipedia.org/wiki/%D7%AA%D7%95%D7%9B%D7%A0%D7%94_%D7%97%D7%99%D7%A0%D7%9E%D7%99%D7%AA" title="תוכנה חינמית">עברית</a></li>
+					<li class="interwiki-lv"><a href="http://lv.wikipedia.org/wiki/Bezmaksas_programmat%C5%ABra" title="Bezmaksas programmatūra">Latviešu</a></li>
+					<li class="interwiki-lt"><a href="http://lt.wikipedia.org/wiki/Nemokama_programin%C4%97_%C4%AFranga" title="Nemokama programinė įranga">Lietuvių</a></li>
+					<li class="interwiki-hu"><a href="http://hu.wikipedia.org/wiki/Freeware" title="Freeware">Magyar</a></li>
+					<li class="interwiki-mk"><a href="http://mk.wikipedia.org/wiki/%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%B0_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%81%D0%BA%D0%B0_%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D0%B0" title="Бесплатна програмска опрема">Македонски</a></li>
+					<li class="interwiki-ms"><a href="http://ms.wikipedia.org/wiki/Perisian_percuma" title="Perisian percuma">Bahasa Melayu</a></li>
+					<li class="interwiki-my"><a href="http://my.wikipedia.org/wiki/Freeware" title="Freeware">မြန်မာဘာသာ</a></li>
+					<li class="interwiki-nl"><a href="http://nl.wikipedia.org/wiki/Freeware" title="Freeware">Nederlands</a></li>
+					<li class="interwiki-ja"><a href="http://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%A6%E3%82%A7%E3%82%A2" title="フリーウェア">日本語</a></li>
+					<li class="interwiki-no"><a href="http://no.wikipedia.org/wiki/Freeware" title="Freeware">‪Norsk (bokmål)‬</a></li>
+					<li class="interwiki-pl"><a href="http://pl.wikipedia.org/wiki/Freeware" title="Freeware">Polski</a></li>
+					<li class="interwiki-pt"><a href="http://pt.wikipedia.org/wiki/Software_gratuito" title="Software gratuito">Português</a></li>
+					<li class="interwiki-ro"><a href="http://ro.wikipedia.org/wiki/Freeware" title="Freeware">Română</a></li>
+					<li class="interwiki-ru"><a href="http://ru.wikipedia.org/wiki/Freeware" title="Freeware">Русский</a></li>
+					<li class="interwiki-simple"><a href="http://simple.wikipedia.org/wiki/Freeware" title="Freeware">Simple English</a></li>
+					<li class="interwiki-sk"><a href="http://sk.wikipedia.org/wiki/Freeware" title="Freeware">Slovenčina</a></li>
+					<li class="interwiki-sl"><a href="http://sl.wikipedia.org/wiki/Brezpla%C4%8Dno_programje" title="Brezplačno programje">Slovenščina</a></li>
+					<li class="interwiki-sh"><a href="http://sh.wikipedia.org/wiki/Freeware" title="Freeware">Srpskohrvatski / Српскохрватски</a></li>
+					<li class="interwiki-fi"><a href="http://fi.wikipedia.org/wiki/Ilmaisohjelma" title="Ilmaisohjelma">Suomi</a></li>
+					<li class="interwiki-sv"><a href="http://sv.wikipedia.org/wiki/Freeware" title="Freeware">Svenska</a></li>
+					<li class="interwiki-th"><a href="http://th.wikipedia.org/wiki/%E0%B8%9F%E0%B8%A3%E0%B8%B5%E0%B9%81%E0%B8%A7%E0%B8%A3%E0%B9%8C" title="ฟรีแวร์">ไทย</a></li>
+					<li class="interwiki-tr"><a href="http://tr.wikipedia.org/wiki/Freeware" title="Freeware">Türkçe</a></li>
+					<li class="interwiki-uk"><a href="http://uk.wikipedia.org/wiki/%D0%91%D0%B5%D0%B7%D0%BA%D0%BE%D1%88%D1%82%D0%BE%D0%B2%D0%BD%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BD%D0%B5_%D0%B7%D0%B0%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8F" title="Безкоштовне програмне забезпечення">Українська</a></li>
+					<li class="interwiki-ur"><a href="http://ur.wikipedia.org/wiki/%D9%85%D8%B5%D9%86%D8%B9%D9%90_%D8%A2%D8%B2%D8%A7%D8%AF" title="مصنعِ آزاد">اردو</a></li>
+					<li class="interwiki-vi"><a href="http://vi.wikipedia.org/wiki/Ph%E1%BA%A7n_m%E1%BB%81m_mi%E1%BB%85n_ph%C3%AD" title="Phần mềm miễn phí">Tiếng Việt</a></li>
+					<li class="interwiki-zh"><a href="http://zh.wikipedia.org/wiki/%E5%85%8D%E8%B2%BB%E8%BB%9F%E9%AB%94" title="免費軟體">中文</a></li>
+				</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+											<ul id="footer-info">
+																	<li id="footer-info-lastmod"> This page was last modified on 16 February 2011 at 08:01.<br /></li>
+																							<li id="footer-info-copyright">Text is available under the <a rel="license" href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="http://www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="http://en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+															</ul>
+															<ul id="footer-places">
+																	<li id="footer-places-privacy"><a href="http://wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+																							<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+																							<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+															</ul>
+											<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="http://wikimediafoundation.org/"><img src="/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="http://www.mediawiki.org/"><img src="http://bits.wikimedia.org/skins-1.17/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		
+<script src="http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mediaWiki.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Freeware", "wgTitle": "Freeware", "wgAction": "view", "wgArticleId": 11592, "wgIsArticle": true, "wgUserName": null, "wgUserGroups": ["*"], "wgCurRevisionId": 414213955, "wgCategories": ["Articles needing additional references from June 2010", "All articles needing additional references", "Freeware", "Software licenses"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgSearchNamespaces": [0], "wgFlaggedRevsParams": {"tags": {"status": {"levels": 1, "quality": 2, "pristine": 3}}}, "wgStableRevisionId": null, "wgRevContents": {"error": "Unable to get content.", "waiting": "Waiting for content"}, "wgWikimediaMobileUrl": "http://en.m.wikipedia.org/wiki", "wgCollapsibleNavBucketTest": false, "wgCollapsibleNavForceNewVersion": false, "wgArticleAssessmentJUIPath": "http://bits.wikimedia.org/w/extensions-1.17/UsabilityInitiative/js/js2stopgap/jui.combined.min.js", "Geo": {"city": "", "country": ""}, "wgNoticeProject": "wikipedia"});
+}
+</script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mediaWiki.loader.load(["mediawiki.legacy.wikibits", "mediawiki.util", "mediawiki.legacy.ajax", "mediawiki.legacy.mwsuggest", "ext.vector.collapsibleNav", "ext.vector.collapsibleTabs", "ext.vector.editWarning", "ext.vector.simpleSearch"]);
+	mediaWiki.loader.go();
+}
+</script>
+
+<script src="http://bits.wikimedia.org/w/extensions-1.17/WikimediaMobile/MobileRedirect.js?2.2" type="text/javascript"></script>
+<script src="/w/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;301-2" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;version=20110217T190952Z" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mediaWiki.user.options.set({"ccmeonemails":0,"cols":80,"contextchars":50,"contextlines":5,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":"3","watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":false,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false});
+	mediaWiki.loader.state({"user.options":"ready"});
+}
+</script><script type="text/javascript" src="http://geoiplookup.wikimedia.org/"></script>		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		<!-- Served by srv159 in 0.066 secs. -->			</body>
+</html>

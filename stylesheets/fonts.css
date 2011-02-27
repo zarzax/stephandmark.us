@@ -1,0 +1,95 @@
+/* KERNEST.COM WEB FONT CSS GENERATED FOR mark */
+
+/* 
+Monika 
+ 
+Foundry: Unknown,  
+Contributors: catrina 
+License: Freeware, http://en.wikipedia.org/wiki/Freeware 
+*/
+
+@font-face {
+	font-family: 'Monika';
+src: url('../fonts/monika.eot?') format('eot'), url('../fonts/monika.ttf') format('truetype'), url('../fonts/monika.woff') format('woff'), url('../fonts/monika.svg#monika') format('svg'); }
+/* 
+Cantarell 
+http://abattis.org/cantarell/ 
+Foundry: Dave Crossland,  
+Contributors: Dave Crossland 
+License: GNU General Public License, http://www.gnu.org/licenses/gpl-2.0.html 
+*/
+
+@font-face {
+	font-family: 'Cantarell';
+src: url('../fonts/cantarell.eot?') format('eot'), url('../fonts/cantarell.ttf') format('truetype'), url('../fonts/cantarell.woff') format('woff'), url('../fonts/cantarell.svg#cantarell-regular') format('svg'); }
+/* 
+Aurelis Script No 2 Condensed 
+ 
+Foundry: Arkandis Digital Foundry, http://arkandis.tuxfamily.org/ 
+Contributors: Hirwen Harendal 
+License: GNU General Public License, http://www.gnu.org/licenses/gpl-2.0.html 
+*/
+
+@font-face {
+	font-family: 'Aurelis No2 Std';
+	font-style: italic;	
+	font-stretch: condensed;	
+src: url('../fonts/aurelis-script-no-2-condensed.eot?') format('eot'), url('../fonts/aurelis-script-no-2-condensed.ttf') format('truetype'), url('../fonts/aurelis-script-no-2-condensed.woff') format('woff'), url('../fonts/aurelis-script-no-2-condensed.svg#aurelisscriptno2cd-italic') format('svg'); }
+/* 
+Aurelis Script No 2 Std 
+ 
+Foundry: Arkandis Digital Foundry, http://arkandis.tuxfamily.org/ 
+Contributors: Hirwen Harendal 
+License: GNU General Public License, http://www.gnu.org/licenses/gpl-2.0.html 
+*/
+
+@font-face {
+	font-family: 'Aurelis No2 Std';
+	font-style: italic;	
+src: url('../fonts/aurelis-script-no-2-std.eot?') format('eot'), url('../fonts/aurelis-script-no-2-std.ttf') format('truetype'), url('../fonts/aurelis-script-no-2-std.woff') format('woff'), url('../fonts/aurelis-script-no-2-std.svg#aurelisscriptno2-italic') format('svg'); }
+/* 
+Aurelis No 2 Std Bold 
+ 
+Foundry: Arkandis Digital Foundry, http://arkandis.tuxfamily.org/ 
+Contributors: Hirwen Harendal 
+License: GNU General Public License, http://www.gnu.org/licenses/gpl-2.0.html 
+*/
+
+@font-face {
+	font-family: 'Aurelis No2 Std';
+	font-weight: bold;	
+src: url('../fonts/aurelis-no-2-std-bold.eot?') format('eot'), url('../fonts/aurelis-no-2-std-bold.ttf') format('truetype'), url('../fonts/aurelis-no-2-std-bold.woff') format('woff'), url('../fonts/aurelis-no-2-std-bold.svg#aurelisno2-bold') format('svg'); }
+.monika {
+ font-family: 'Monika';
+line-height: 140%;
+text-rendering: optimizeLegibility;
+-webkit-font-smoothing: antialiased;}
+
+.cantarell {
+ font-family: 'Cantarell';
+line-height: 140%;
+text-rendering: optimizeLegibility;
+-webkit-font-smoothing: antialiased;}
+
+.aurelis-script-no-2-condensed {
+ font-family: 'Aurelis No2 Std';
+font-style: italic;
+font-stretch: condensed;
+line-height: 140%;
+text-rendering: optimizeLegibility;
+-webkit-font-smoothing: antialiased;}
+
+.aurelis-script-no-2-std {
+ font-family: 'Aurelis No2 Std';
+font-style: italic;
+line-height: 140%;
+text-rendering: optimizeLegibility;
+-webkit-font-smoothing: antialiased;}
+
+.aurelis-no-2-std-bold {
+ font-family: 'Aurelis No2 Std';
+font-weight: bold;
+line-height: 140%;
+text-rendering: optimizeLegibility;
+-webkit-font-smoothing: antialiased;}
+

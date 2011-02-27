@@ -1,0 +1,178 @@
+// This import applies a global reset to any page that imports this stylesheet.
+@import "compass/reset";
+
+// To configure blueprint, edit the partials/base.sass file.
+@import "partials/base";
+
+@import "partials/rounded-corners";
+
+// Import all the default blueprint modules so that we can access their mixins.
+@import "blueprint";
+
+// Combine the partials into a single screen stylesheet.
+@import "partials/page";
+@import "partials/two_col";
+
+body {
+  //background: url("../images/background-slice.png") repeat-y black;
+  font-family: 'Cantarell', sans-serif;
+  //background-color: rgba(0, 0, 0, 0.6);
+  background-color: #454545;
+  color: #f3f3f3;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+a.external {
+   padding-right: 14px;
+   background: url("../images/icon-external.png") no-repeat center right transparent ;
+}
+
+h1 {
+  color: #f3f3f3;
+}
+
+#content-wrapper, #sidebar {
+  background-color: #1B1B1B;
+}
+
+#content {
+  padding: 10px 10px;
+}
+
+.center-image {
+  margin: 0 auto 20px;
+  display: block;
+}
+
+#sidebar {
+  position: absolute;
+  width: 217px;
+  top: 127px;
+  ul {
+    list-style-type: none;
+    padding: 0 0 0 5px;
+    margin: 10px 0;
+    font-size: 14pt;
+    font-family: 'Aurelis No2 Std','times new roman',serif;
+    a {
+      color: #5EB1FF;
+      text-decoration: none;
+      font-weight: bold;
+      &:hover {
+        color: #98C044;
+      }
+    }
+    
+  }
+}
+
+#header {
+  font-family: 'Monika', script;
+  width: 100%;
+  overflow: auto;
+  background-color: #98C044;
+  #header-text{
+    font-size: 28pt;
+    margin: 18px 0 18px 100px;
+    display: block;
+    color: #030303;
+    letter-spacing: 8px;
+  }
+}
+
+#footer {
+  width: 100%;
+  overflow: auto;
+  background-color: black;
+  color: #f6f6f6;
+  .copyright-info {
+    float: right;
+    clear: both;
+    margin: 5px 30px 0 0;
+    a {
+      color: #f1f1f1;
+      text-decoration: none;
+    }
+  }
+}
+
+.section, .bottom-section {
+  
+  h2, h3 {
+    font-family: 'Aurelis No2 Std', 'times new roman', serif;
+    color: #5EB1FF;
+  }
+  
+  h2 {
+    margin-bottom: 9px;
+    font-size: 18pt;
+  }
+
+
+  a {
+    color: #A3A3A3;
+    text-decoration: none;
+    &:visited {
+      color: #A3A3A3;
+    }
+    &:hover {
+      color: #5EB1FF;
+    }
+  }  
+  
+  p {
+    color: #f6f6f6;
+    font-size: 10pt;
+    text-indent: 9px;
+  }
+}
+
+.bottom-section {
+  width: 100%;
+  
+  overflow: auto;
+  clear: both;
+  
+  .column-wrapper {
+    width: 50%;
+    float: left;
+    .column-content {
+      padding: 20px;
+      background-color: #98C044;
+      border-radius: 10px;
+      -moz-border-radius: 10px;
+      -webkit-border-radius: 10px;
+      margin: 20px;
+  
+      background-color: #1B1B1B;
+    }
+  }
+  
+}
+
+.multi-column {
+  width: 100%;
+  
+  .left-column {
+    width: 30%;
+    float: left;
+  }
+  .right-column {
+    width: 70%;
+    float: left;
+  }
+}
+
+#the-marsh-map, #country-inn-map {
+  height: 300px;
+  width: 100%;
+  margin: 5px auto;
+}
+
+.gmap_marker {
+  color: black;
+  a, a:visited, a:hover {
+    color: #666666;
+  }
+}
