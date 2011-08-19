@@ -45,27 +45,6 @@ h1 {
   display: block;
 }
 
-#sidebar {
-  position: absolute;
-  width: 217px;
-  top: 127px;
-  ul {
-    list-style-type: none;
-    padding: 0 0 0 5px;
-    margin: 10px 0;
-    font-size: 14pt;
-    font-family: 'Aurelis No2 Std','times new roman',serif;
-    a {
-      color: #5EB1FF;
-      text-decoration: none;
-      font-weight: bold;
-      &:hover {
-        color: #98C044;
-      }
-    }
-    
-  }
-}
 
 #header {
   font-family: 'Monika', script;
@@ -151,28 +130,3 @@ h1 {
   
 }
 
-.multi-column {
-  width: 100%;
-  
-  .left-column {
-    width: 30%;
-    float: left;
-  }
-  .right-column {
-    width: 70%;
-    float: left;
-  }
-}
-
-#the-marsh-map, #country-inn-map {
-  height: 300px;
-  width: 100%;
-  margin: 5px auto;
-}
-
-.gmap_marker {
-  color: black;
-  a, a:visited, a:hover {
-    color: #666666;
-  }
-}

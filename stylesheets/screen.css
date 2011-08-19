@@ -78,9 +78,7 @@ body .added { background: #006600; color: white; }
 body .removed { background: #990000; color: white; }
 
 body #container { width: 900px; margin: 0 auto; overflow: hidden; *zoom: 1; }
-body #sidebar-wrapper { display: inline; float: left; margin-right: 10px; width: 217.5px; }
-* html body #sidebar-wrapper { overflow-x: hidden; }
-body #content-wrapper { display: inline; float: left; margin-right: 0; width: 672.5px; }
+body #content-wrapper { display: inline; float: left; margin-right: 0; width: 900px; }
 * html body #content-wrapper { overflow-x: hidden; }
 
 body { font-family: 'Cantarell', sans-serif; background-color: #454545; color: #f3f3f3; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; }
@@ -94,11 +92,6 @@ h1 { color: #f3f3f3; }
 #content { padding: 10px 10px; }
 
 .center-image { margin: 0 auto 20px; display: block; }
-
-#sidebar { position: absolute; width: 217px; top: 127px; }
-#sidebar ul { list-style-type: none; padding: 0 0 0 5px; margin: 10px 0; font-size: 14pt; font-family: 'Aurelis No2 Std','times new roman',serif; }
-#sidebar ul a { color: #5EB1FF; text-decoration: none; font-weight: bold; }
-#sidebar ul a:hover { color: #98C044; }
 
 #header { font-family: 'Monika', script; width: 100%; overflow: auto; background-color: #98C044; }
 #header #header-text { font-size: 28pt; margin: 18px 0 18px 100px; display: block; color: #030303; letter-spacing: 8px; }
@@ -117,12 +110,3 @@ h1 { color: #f3f3f3; }
 .bottom-section { width: 100%; overflow: auto; clear: both; }
 .bottom-section .column-wrapper { width: 50%; float: left; }
 .bottom-section .column-wrapper .column-content { padding: 20px; background-color: #98C044; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; margin: 20px; background-color: #1B1B1B; }
-
-.multi-column { width: 100%; }
-.multi-column .left-column { width: 30%; float: left; }
-.multi-column .right-column { width: 70%; float: left; }
-
-#the-marsh-map, #country-inn-map { height: 300px; width: 100%; margin: 5px auto; }
-
-.gmap_marker { color: black; }
-.gmap_marker a, .gmap_marker a:visited, .gmap_marker a:hover { color: #666666; }
